@@ -4,6 +4,13 @@ This page is dedicated to the book "Programming in P5", which aims to teach prog
 
 Unlike traditional programming books, this one focuses on visual and interactive experiences, making it ideal for artists, designers, and anyone interested in exploring the intersection of art and technology.
 
-Below the frontpage and backcover images of the book are displayed:
-# Frontpage: ![Programming in P5](frontpage.png)
-# Backcover : ![Programming in P5](backcover.png)
+<div style="display: flex; gap: 20px; align-items: flex-start; justify-content: center;">
+	<div style="text-align: center;">
+		<img src="frontpage.png" alt="Frontpage" width="200" />
+		<div>Frontpage</div>
+	</div>
+	<div style="text-align: center;">
+		<img src="backcover.png" alt="Backcover" width="200" />
+		<div>Backcover</div>
+	</div>
+</div>
