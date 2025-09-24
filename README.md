@@ -6,11 +6,11 @@ Unlike traditional programming books, this one focuses on visual and interactive
 
 <div style="display: flex; gap: 20px; align-items: flex-start; justify-content: center;">
 	<div style="text-align: center;">
-		<img src="frontpage.png" alt="Frontpage" width="200" />
+		<img src="frontpage.png" alt="Frontpage" width="200" height="300" style="object-fit: cover;" />
 		<div>Frontpage</div>
 	</div>
 	<div style="text-align: center;">
-		<img src="backcover.png" alt="Backcover" width="200" />
+		<img src="backcover.png" alt="Backcover" width="200" height="300" style="object-fit: cover;" />
 		<div>Backcover</div>
 	</div>
 </div>
